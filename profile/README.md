@@ -1,6 +1,12 @@
-## Escaropen
+# Escaropen
 
-The new revolution of old chatting apps. Coming soon.
+The new revolution of old chatting apps.
+
+## Questions and Answers
+> Is Escaropen going to be open-source?
+
+Maybe in the future. We're planning on making it more stable first.
+
 <!--
 
 **Here are some ideas to get you started:**
